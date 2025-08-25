@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Front-End Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamarifhossain1&label=Profile%20views&color=0e75b6&style=flat" alt="iamarifhossain1" /> </p>
 - 🔭 I’m currently working on **Payoo Mobile Bank App**
 
 - 🌱 I’m currently learning **JavaScript, React**
